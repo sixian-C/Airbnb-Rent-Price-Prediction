@@ -1,1 +1,1 @@
-# Airbnb-Rent-Price-Prediction
+# Airbnb Rent Price Prediction
